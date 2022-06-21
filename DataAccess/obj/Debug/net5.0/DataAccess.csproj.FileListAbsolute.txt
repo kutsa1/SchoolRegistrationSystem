@@ -1,0 +1,51 @@
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\kutsa\OneDrive\Desktop\MyFinalProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

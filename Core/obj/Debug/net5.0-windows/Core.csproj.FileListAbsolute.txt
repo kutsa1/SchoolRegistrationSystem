@@ -1,0 +1,24 @@
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\bin\Debug\net5.0-windows\Core.deps.json
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\bin\Debug\net5.0-windows\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\bin\Debug\net5.0-windows\Core.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\obj\Debug\net5.0-windows\Core.csproj.AssemblyReference.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\obj\Debug\net5.0-windows\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\obj\Debug\net5.0-windows\Core.AssemblyInfoInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\obj\Debug\net5.0-windows\Core.AssemblyInfo.cs
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\obj\Debug\net5.0-windows\Core.csproj.CoreCompileInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\obj\Debug\net5.0-windows\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\obj\Debug\net5.0-windows\refint\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\obj\Debug\net5.0-windows\Core.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder\Core\obj\Debug\net5.0-windows\ref\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\bin\Debug\net5.0-windows\Core.deps.json
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\bin\Debug\net5.0-windows\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\bin\Debug\net5.0-windows\Core.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\obj\Debug\net5.0-windows\Core.csproj.AssemblyReference.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\obj\Debug\net5.0-windows\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\obj\Debug\net5.0-windows\Core.AssemblyInfoInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\obj\Debug\net5.0-windows\Core.AssemblyInfo.cs
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\obj\Debug\net5.0-windows\Core.csproj.CoreCompileInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\obj\Debug\net5.0-windows\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\obj\Debug\net5.0-windows\refint\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\obj\Debug\net5.0-windows\Core.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Core\obj\Debug\net5.0-windows\ref\Core.dll

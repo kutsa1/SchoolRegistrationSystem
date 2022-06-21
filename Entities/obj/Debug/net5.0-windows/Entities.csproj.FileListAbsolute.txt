@@ -1,0 +1,30 @@
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\bin\Debug\net5.0-windows\Entities.deps.json
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\bin\Debug\net5.0-windows\Entities.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\bin\Debug\net5.0-windows\Entities.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\bin\Debug\net5.0-windows\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\bin\Debug\net5.0-windows\Core.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\obj\Debug\net5.0-windows\Entities.csproj.AssemblyReference.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\obj\Debug\net5.0-windows\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\obj\Debug\net5.0-windows\Entities.AssemblyInfoInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\obj\Debug\net5.0-windows\Entities.AssemblyInfo.cs
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\obj\Debug\net5.0-windows\Entities.csproj.CoreCompileInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\obj\Debug\net5.0-windows\Entities.csproj.CopyComplete
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\obj\Debug\net5.0-windows\Entities.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\obj\Debug\net5.0-windows\refint\Entities.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\obj\Debug\net5.0-windows\Entities.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder\Entities\obj\Debug\net5.0-windows\ref\Entities.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\bin\Debug\net5.0-windows\Entities.deps.json
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\bin\Debug\net5.0-windows\Entities.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\bin\Debug\net5.0-windows\Entities.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\bin\Debug\net5.0-windows\Core.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\bin\Debug\net5.0-windows\Core.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\obj\Debug\net5.0-windows\Entities.csproj.AssemblyReference.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\obj\Debug\net5.0-windows\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\obj\Debug\net5.0-windows\Entities.AssemblyInfoInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\obj\Debug\net5.0-windows\Entities.AssemblyInfo.cs
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\obj\Debug\net5.0-windows\Entities.csproj.CoreCompileInputs.cache
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\obj\Debug\net5.0-windows\Entities.csproj.CopyComplete
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\obj\Debug\net5.0-windows\Entities.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\obj\Debug\net5.0-windows\refint\Entities.dll
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\obj\Debug\net5.0-windows\Entities.pdb
+C:\Users\kutsa\OneDrive\Desktop\New folder (2)\Entities\obj\Debug\net5.0-windows\ref\Entities.dll

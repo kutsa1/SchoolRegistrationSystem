@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialSkin" Version="0.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj" />
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+    <ProjectReference Include="..\TestUI\TestUI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Cash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Credit Cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\DeclareCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Fee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>
